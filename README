@@ -1,0 +1,19 @@
+Authors :
+	Kenneth Xue(kxue01)
+	William Varteresian (wvarte01)
+
+Our implementation of a universal virtual machine for the ICFP Programming Contest 2006.
+More about the contest and what this does can be read here:
+http://www.boundvariable.org/
+
+
+The VM contains the following features:
+
+32-bit architecture
+14 instructions
+8 general-purpose registers
+a heap that maps distinct 32-bit values to allocated arrays
+array allocation, deallocation and update
+character-based input and output
+a simple control flow
+math and logic instructions

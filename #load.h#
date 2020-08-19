@@ -1,0 +1,10 @@
+/*
+ *
+ */
+
+#ifndef _LOAD_H_INCLUDED
+#define _LOAD_H_INCLUDED
+
+void load_value();
+
+#endif
